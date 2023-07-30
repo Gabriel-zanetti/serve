@@ -1,0 +1,16 @@
+servido node.js
+29/07/2023 21:03:16 - Script node executado! porta 8080
+29/07/2023 21:10:47 - Script node executado! porta 8080
+29/07/2023 21:18:38 - Script node executado! porta 8080
+29/07/2023 21:22:56 - Script node executado! porta 8080
+30/07/2023 00:39:10 - Script node executado! porta 8080
+30/07/2023 00:48:50 - Script node executado! porta 8080
+30/07/2023 00:49:45 - Script node executado! porta 8080
+30/07/2023 02:04:31 - Script node executado! porta 8080
+30/07/2023 02:09:13 - Script node executado! porta 8080
+30/07/2023 02:10:39 - Script node executado! porta 8080
+30/07/2023 02:13:23 - Script node executado! porta 8080
+30/07/2023 02:15:55 - Script node executado! porta 8080
+30/07/2023 16:26:43 - Script node executado! porta 8080
+30/07/2023 19:53:30 - Script node executado! porta 8080
+30/07/2023 20:14:56 - Script node executado! porta 8080

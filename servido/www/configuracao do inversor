@@ -1,0 +1,25 @@
+configuracao do inversor 
+
+p30 idioma 
+p31 tensao nominal (rede 380 geralmente)
+p32 frequencia de rede (60hz)
+p33 corrente sobrecarga ()
+p34 corrente nominal ()
+p35 numero de polos motor(3)
+p36 rotacao rpm (1730)
+p37 potencia do motor
+p39 modo de desempenho de torque 
+p40 auto ajuste 
+p41 tempo de aceleracao 1
+p42 tempo de deseleracao 1
+p43 frequencia minima 
+p44 frequencia maxima 
+p45 modo de parada
+p46 modo de partida 1
+p47 modo referencia de velocidade 1 
+p48 modo de partida 2
+p49 modo referencia de velocidade 2
+p50 modo de partida 3
+p51 modo referencia de velocidade 3
+p52 monitoramento potencia 
+p53 reset de fabrica
